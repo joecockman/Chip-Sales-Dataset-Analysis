@@ -6,4 +6,4 @@ I used python to complete this project, utlising the pandas library for analysis
 
 My work can be found in the file repository in both ipynb form and PDF form. the dataset can also be found there.
 
-![Chips](chips.png)
+![Chips](chips.jpg)
