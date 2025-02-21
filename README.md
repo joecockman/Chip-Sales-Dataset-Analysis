@@ -1,4 +1,4 @@
-# Chip-Sales-Dataset-Analysis
+# Quantium-Virtual-Internship-Chip-Sales-Dataset-Analysis
 
 This was a project I completed as part of the Quantium virtual internship. The task was to clean and then analyse a dataset containing a year of sales data for a company selling chips. 
 
